@@ -1,0 +1,7 @@
+[ 2025-08-12 16:42:58,880 ] 19 networksecurity.logging - INFO - Enter the try block
+[ 2025-08-12 16:42:58,880 ] 23 networksecurity.logging - ERROR - An error occurred
+Traceback (most recent call last):
+  File "D:\Network Security\networksecurity\exception\exception.py", line 20, in <module>
+    a = 1 / 0
+        ~~^~~
+ZeroDivisionError: division by zero
