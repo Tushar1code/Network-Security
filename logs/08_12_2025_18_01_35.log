@@ -1,0 +1,2 @@
+[ 2025-08-12 18:01:35,645 ] 53 root - INFO - Total records found in CSV: 11055
+[ 2025-08-12 18:01:44,891 ] 57 root - INFO - Inserted 11055 records into MongoDB.
